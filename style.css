@@ -1,0 +1,45 @@
+/* CSS for Home Page */
+/* Octavius Johnson */
+body {
+   background-color: rgb(148, 192, 231);
+}
+
+header {
+   background-color: rgb(171, 63, 63);
+   color: rgb(237, 212, 143);
+   text-align: center;
+   padding: 10px;
+}
+
+header h1 {
+   font-size: 80px;
+}
+
+header h3 {
+   font-size: 20px;
+}
+
+header nav a {
+   color: rgb(255, 255, 255);
+}
+
+header nav a:hover {
+   color: rgb(148, 192, 231);
+}
+
+main img {
+   display: block;
+   margin: auto;
+}
+
+main p {
+   background-color: rgb(171, 63, 63);
+   color: rgb(237, 212, 143);
+   font-size: 30px;
+   text-align: center;
+   padding: 20px;
+}
+
+.video {
+   text-align: center;
+}

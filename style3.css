@@ -1,0 +1,56 @@
+/* CSS for Menu Page */
+/* Octavius Johnson */
+
+body {
+   padding: 50px;
+   background-color: rgb(237, 212, 143);
+}
+
+header h1 {
+   color: rgb(171, 63, 63);
+   font-size: 70px;
+}
+
+header h3 {
+   color: rgb(171, 63, 63);
+   font-size: 20px;
+}
+
+header nav a {
+   color: rgb(0, 0, 0);
+}
+
+header nav a:hover {
+   color: rgb(171, 63, 63);
+}
+
+.menu-columns {
+   display: flex;
+   justify-content: space-between;
+   gap: 40px;
+   margin-top: 20px;
+}
+
+.menu-column {
+   flex: 1;
+   background-color: rgb(255, 255, 255);
+   line-height: 2;
+   padding: 20px;
+   border-radius: 10px;
+   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.menu-column h2{
+   text-align: center;
+   color: rgb(171, 63, 63);
+   font-size: 30px;
+}
+
+.menu-list {
+   color: rgb(0, 0, 0);
+}
+
+main img {
+   display: block;
+   margin: auto;
+}

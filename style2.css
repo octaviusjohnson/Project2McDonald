@@ -1,0 +1,46 @@
+/* CSS for Contact Page */
+/* Octavius Johnson */
+
+body {
+   background-color: rgb(171, 63, 63);
+}
+
+header h1 {
+   color: rgb(237, 212, 143);
+   font-size: 60px;
+}
+
+header h3 {
+   color: rgb(237, 212, 143);
+   font-size: 20px;
+}
+
+header nav a {
+   color: rgb(255, 255, 255);
+}
+
+header nav a:hover {
+   color: rgb(148, 192, 231);
+}
+
+main li{
+   color: rgb(237, 212, 143);
+   font-size: 30px;
+   line-height: 2.5;
+}
+
+table, th, td {
+border: 1px solid #333;
+}
+
+th, td {
+padding: 10px;
+text-align: center;
+}
+
+table {
+   background-color: rgb(255, 255, 255);
+   width: 80%;
+   border-collapse: collapse;
+   margin-top: 20px;
+}
